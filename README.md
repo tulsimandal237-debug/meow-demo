@@ -1,3 +1,4 @@
 # meow-demo
-first meow repository
-author - cat
+First meow repository.
+<br>
+Author - Cat
